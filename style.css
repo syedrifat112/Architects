@@ -509,10 +509,9 @@ button {
     .footer{
         margin: 10px 20px 30px 20px;
     }
+    .footer-description{
+        padding: 8px;
+    }
 }
 
 /* section-nine-end */
-
-.hide{
-    display: none;
-}
